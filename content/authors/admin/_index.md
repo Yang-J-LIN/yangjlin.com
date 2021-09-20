@@ -58,6 +58,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yang-lin-6b5990190/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=8bXFBTUAAAAJ&hl=en
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -75,6 +78,6 @@ highlight_name: true
 
 I am a PhD student at Prof. [Patrick Barth](https://www.epfl.ch/labs/barth-lab/)'s lab at École polytechnique fédérale de Lausanne. I am working on applying deep learing methods on protein structure prediction and drug discovery.
 
-I love photography, reading and travel.
+I love [photography](https://www.instagram.com/yang.j.lin/), reading and travel.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
