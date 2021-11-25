@@ -29,7 +29,7 @@ education:
     institution: École polytechnique fédérale de Lausanne
     year: in progress
   - course: B.Eng. in Automation
-    institution: Massachusetts Institute of Technology
+    institution: Shanghai Jiao Tong University
     year: 2020
 
 # Social/Academic Networking
