@@ -76,7 +76,7 @@ email: "yang.lin@epfl.ch"
 highlight_name: true
 ---
 
-I am a PhD student at Prof. [Patrick Barth](https://www.epfl.ch/labs/barth-lab/)'s lab at École polytechnique fédérale de Lausanne. I am working on applying deep learing methods on protein structure prediction and drug discovery.
+I am a PhD student at [AQUA](https://www.epfl.ch/labs/aqua/) lab at École polytechnique fédérale de Lausanne. I am going to marry deep learing methods with SPAD iamge sensor/processor.
 
 I love [photography](https://www.instagram.com/yang.j.lin/), reading and travel.
 
